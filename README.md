@@ -7,7 +7,7 @@
 🎓 **Formação:**
 - **USP:** Bacharelado em Física (1994-1998)
 - **UFABC:** Pós-graduação em Engenharia de Gestão de Projetos (2010-2013)
-- **Anhanguera:** Ciências Econômicas (Cursando)
+- **Anhanguera:** Ciência de Dados (Cursando)
 
 💼 **Experiência Profissional:**
 - **Grupo SEB:** Especialista Dynamics (2022-2023)
