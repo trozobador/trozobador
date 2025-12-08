@@ -30,9 +30,9 @@
 - MB-200: Microsoft Power Platform + Dynamics 365 Core (2019)
 
 💻 **Tecnologias e Ferramentas:**
-- **Desenvolvimento:** .Net, Dynamics 365, JavaScript, PHP, .Net Core, C++, NodeJS, React.JS
-- **Bases de Dados:** MySQL, Oracle 11g, Azure DataLake, SQL Server 2019, MongoDB, RedShift
-- **Ferramentas:** Visual Studio, MS Dynamics, SOAP UI, Eclipse, Postman, Toad
+- **Desenvolvimento:** .Net, Dynamics 365, JavaScript, .Net Core, C++, NodeJS, React.JS, Python 
+- **Bases de Dados:** MySQL, Oracle 11g, Azure DataLake, SQL Server, MongoDB, RedShift
+- **Ferramentas:** Visual Studio, MS Dynamics, Postman
 - **Metodologias:** Scrum, ITIL, Kanban, PMI Waterfall
 - **Outros:** Git, Design Patterns, MVC, TFS, NPM, REST
 
@@ -48,6 +48,7 @@
 🌐 **Links:**
 - [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)
 - [GitHub](https://github.com/trozobador)
+- [Transcript](https://learn.microsoft.com/pt-br/users/martins-ricardo/transcript/vnmzkf3p949mjle)
 
 ✨ **Sobre Mim:**
 Arquiteto de Software e mestrando em Inteligência Artificial com quase 30 anos de experiência em desenvolvimento de aplicações C++ e C#. Sempre atualizado nas tecnologias modernas, domino o Microsoft Dynamics 365 e a Power Platform, além de ter ampla experiência com serviços de Cloud e Inteligência Artificial.
