@@ -19,6 +19,10 @@
 - **L3 Informatica LTDA:** Arquiteto de Soluções (2009-2012)
 
 📜 **Certificações:**
+- Microsoft Power Platform Developer	PL-400 (2024)
+- Microsoft Azure AI Fundamentals	AI-900 (2024)
+- Microsoft Dynamics 365 Fundamentals (CRM)	MB-910 (2024)
+- Microsoft Power Platform Fundamentals	PL-900 (2024)
 - Amazon AWS Solutions Architect SAA-C02 (2020)
 - AWS CCP Certified Cloud Practitioner (2020)
 - AWS Certified Developer – Associate (2020)
