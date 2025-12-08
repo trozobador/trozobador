@@ -10,6 +10,7 @@
 - **Anhanguera:** Ciência de Dados (Cursando)
 
 💼 **Experiência Profissional:**
+- **NTT Data:** Especialista Dynamics (2023-2025)
 - **Grupo SEB:** Especialista Dynamics (2022-2023)
 - **Adentis Portugal:** Especialista Dynamics (2020-2022)
 - **AlgarTech:** Especialista Dynamics (2015-2020)
