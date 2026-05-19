@@ -1,55 +1,175 @@
-# 👋 Olá, eu sou o Ricardo Martins Costa
+# Ricardo Martins
 
-**Arquiteto de Soluções | Programador Sênior**
+## AI Engineer | Dynamics 365 Architect | Automation Builder | Data Science Student
 
-📍 Minas Gerais, Brasil
+Construo soluções orientadas por IA, automação e Microsoft Dynamics 365 para resolver problemas reais de negócio.
 
-🎓 **Formação:**
-- **USP:** Bacharelado em Física (1994-1998)
-- **UFABC:** Pós-graduação em Engenharia de Gestão de Projetos (2010-2013)
-- **Anhanguera:** Ciência de Dados (Cursando)
+Tenho mais de 30 anos em desenvolvimento de software e experiência em grandes empresas, com foco em:
 
-💼 **Experiência Profissional:**
-- **NTT Data:** Especialista Dynamics (2023-2025)
-- **Grupo SEB:** Especialista Dynamics (2022-2023)
-- **Adentis Portugal:** Especialista Dynamics (2020-2022)
-- **AlgarTech:** Especialista Dynamics (2015-2020)
-- **CAST Informática SA:** .NET Developer (2014-2015)
-- **AlfaPeople do Brasil:** Arquiteto .NET (2013-2014)
-- **L3 Informatica LTDA:** Arquiteto de Soluções (2009-2012)
+- Microsoft Dynamics 365
+- Power Platform
+- Inteligência Artificial
+- Arquitetura Cloud
+- Automação de processos
+- Engenharia de Software
+- Integrações corporativas
+- Desenvolvimento Full Stack
 
-📜 **Certificações:**
-- Microsoft Power Platform Developer	PL-400 (2024)
-- Microsoft Azure AI Fundamentals	AI-900 (2024)
-- Microsoft Dynamics 365 Fundamentals (CRM)	MB-910 (2024)
-- Microsoft Power Platform Fundamentals	PL-900 (2024)
-- Amazon AWS Solutions Architect SAA-C02 (2020)
-- AWS CCP Certified Cloud Practitioner (2020)
-- AWS Certified Developer – Associate (2020)
-- Artificial Intelligence (Udacity) (2019)
-- MB-200: Microsoft Power Platform + Dynamics 365 Core (2019)
+Atualmente estou focado na construção de sistemas autônomos baseados em IA, agentes inteligentes, automação de conteúdo e plataformas orientadas a dados.
 
-💻 **Tecnologias e Ferramentas:**
-- **Desenvolvimento:** .Net, Dynamics 365, JavaScript, .Net Core, C++, NodeJS, React.JS, Python 
-- **Bases de Dados:** MySQL, Oracle 11g, Azure DataLake, SQL Server, MongoDB, RedShift
-- **Ferramentas:** Visual Studio, MS Dynamics, Postman
-- **Metodologias:** Scrum, ITIL, Kanban, PMI Waterfall
-- **Outros:** Git, Design Patterns, MVC, TFS, NPM, REST
+---
 
-💼 **Histórico de Projetos:**
-- **NTT DATA:** Desenvolvimento de uma solução inovadora utilizando o Copilot Studio.
-- **Grupo SEB:** Reimplantação do Microsoft Dynamics 365 e desenvolvimento de uma nova plataforma de venda de matrículas.
-- **Adentis Portugal:** Desenvolvimento de novas features e suporte a bugs existentes em projetos para clientes na Europa.
-- **AlgarTech:** Revitalização do BackOffice e criação de uma ferramenta de RPA.
-- **CAST Informática SA:** Implementação de um barramento de serviços de alto desempenho e ambiente de Single Sign-On.
-- **AlfaPeople do Brasil:** Coordenação de projetos e desenvolvimento de um Framework em .NET 4.0 para interface com a API do Dynamics.
-- **L3 Informatica LTDA:** Diversos projetos de desenvolvimento e customização de soluções em Dynamics CRM.
+# Current Focus
 
-🌐 **Links:**
-- [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)
-- [GitHub](https://github.com/trozobador)
-- [Transcript](https://learn.microsoft.com/pt-br/users/martins-ricardo/transcript/vnmzkf3p949mjle)
+- AI Agents
+- Generative AI
+- Automation Pipelines
+- Multi-Agent Systems
+- Dynamics 365 + AI
+- AWS Cloud Architecture
+- Data Science
+- Machine Learning
+- Content Automation
+- Trading Automation
+- LLM Integrations
+- MCP Servers
+- RAG Pipelines
 
-✨ **Sobre Mim:**
-Arquiteto de Software e mestrando em Inteligência Artificial com quase 30 anos de experiência em desenvolvimento de aplicações C++ e C#. Sempre atualizado nas tecnologias modernas, domino o Microsoft Dynamics 365 e a Power Platform, além de ter ampla experiência com serviços de Cloud e Inteligência Artificial.
+---
 
+# Featured Projects
+
+## Brigitte
+Plataforma de automação de conteúdo orientada por IA focada em marketing digital, publicação automatizada e análise de performance.
+
+### Tecnologias
+- Python
+- AWS
+- TikTok API
+- Supabase
+- Grafana
+- Apache Superset
+- OpenAI
+- Gemma
+- Automação baseada em agentes
+
+---
+
+## Emanuelle
+Sistema de agentes autônomos para análise de mercado, monitoramento de notícias, operações em criptoativos e aprendizado contínuo.
+
+### Tecnologias
+- Python
+- AWS
+- Slack
+- Supabase
+- CrewAI
+- OpenAI
+- Polymarket
+- Machine Learning
+
+---
+
+## Dynamics 365 Utilities
+Bibliotecas e ferramentas para acelerar o desenvolvimento em Microsoft Dynamics 365 e Power Platform.
+
+### Recursos
+- Web API Helpers
+- Automação Dataverse
+- JavaScript Utilities
+- Plugins
+- Workflows
+- Integrações Azure
+
+---
+
+# Main Stack
+
+## Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+
+## Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![DotNet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp)
+
+## Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+
+## AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+
+## Microsoft Ecosystem
+![Dynamics365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft)
+![PowerPlatform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft)
+![Dataverse](https://img.shields.io/badge/Dataverse-0F6CBD?style=for-the-badge)
+
+---
+
+# Professional Experience
+
+## Microsoft Dynamics 365
+- Dynamics 365 CE
+- Customer Insights
+- Journeys
+- Power Platform
+- Dataverse
+- Power Automate
+- Power Apps
+- Power Pages
+- Azure Functions
+- Azure Logic Apps
+
+## Software Engineering
+- APIs REST
+- Event Driven Architecture
+- Distributed Systems
+- Clean Architecture
+- DevOps
+- CI/CD
+- Docker
+- Kubernetes
+
+## Artificial Intelligence
+- LLM Integrations
+- AI Agents
+- Prompt Engineering
+- Content Automation
+- AI Workflows
+- Retrieval Augmented Generation (RAG)
+- AI Orchestration
+
+---
+
+# GitHub Stats
+
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=trozobador&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trozobador&layout=compact)
+
+---
+
+# About Me
+
+Apaixonado por IA aplicada, automação e construção de sistemas autônomos.
+
+Meu foco atual é desenvolver soluções que utilizem agentes de IA, aprendizado contínuo e automação inteligente para gerar impacto real em negócios.
+
+Acredito que o futuro do desenvolvimento está na combinação entre:
+- engenharia sólida,
+- automação,
+- inteligência artificial,
+- e capacidade de execução.
+
+---
+
+# Contact
+
+- LinkedIn: https://www.linkedin.com/in/costaricardomartins/
+- GitHub: https://github.com/trozobador
+
+---
