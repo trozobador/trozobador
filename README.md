@@ -2,7 +2,7 @@
 
 ### Arquiteto de Soluções · AI Engineer · Especialista Microsoft Dynamics 365 & Power Platform
 
-📍 Uberlândia – MG, Brasil  ·  [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)  ·  🌐 Português (nativo) · Inglês (B2)
+📍 Uberlândia – MG, Brasil  ·  [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)  ·  [Minha vida profissional](https://trozobador.github.io/minha-vida-profissional/)  ·  🌐 Português (nativo) · Inglês (B2)
 
 > Mais de 30 anos transformando necessidades de negócio em soluções técnicas robustas e escaláveis —
 > 15 deles liderando tecnicamente projetos complexos. Hoje, construindo sistemas que aprendem e agem sozinhos.
@@ -92,6 +92,10 @@ Já atuei nos setores **financeiro, telecomunicações, educação, mineração,
 
 ## 🚀 Projetos pessoais
 
+### 🧑‍💼 [Meu Emprego Novo (Agente da Meia Idade)](https://github.com/R238Company/meu-emprego-novo)
+O método que usei para me recolocar no mercado com ajuda de IA, aberto para qualquer um reproduzir: 91 candidaturas, 27 entrevistas e **contratação em 5 meses**. Trata a busca de emprego como um pipeline de dados (preparar → encontrar → candidatar → aprender) e inclui uma CLI com **5 agentes de IA** que geram um currículo sob medida para cada vaga a partir de uma única fonte de verdade, com ciclo de avaliação e revisão até a nota atingir 8.5, além de relatório e preparação de entrevista.
+`Python` `CrewAI` `OpenAI` `Claude` `Gemini` `Grok` `AWS Bedrock` `LaTeX` `PyMuPDF`
+
 ### 🤖 Brigitte: automação de conteúdo com IA
 Plataforma que cria, publica e mede conteúdo de marketing digital de forma autônoma.
 `Python` `AWS` `TikTok API` `Supabase` `Grafana` `Apache Superset` `OpenAI` `Gemma`
@@ -132,5 +136,6 @@ Bibliotecas e ferramentas para acelerar o desenvolvimento em Dynamics 365 e Powe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costaricardomartins/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trozobador)
+[![Minha vida profissional](https://img.shields.io/badge/Minha_vida_profissional-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://trozobador.github.io/minha-vida-profissional/)
 
 Disponível para projetos **remotos**, atendendo como **PJ**.
