@@ -11,7 +11,7 @@
 
 ## 🧭 Biografia técnica
 
-Sou um profissional de tecnologia com mais de três décadas de estrada e uma especialidade bem definida: **pegar um problema de negócio confuso e devolver uma arquitetura que funciona**.
+Sou **bacharel em Física** e profissional de tecnologia com mais de três décadas de estrada e uma especialidade bem definida: **pegar um problema de negócio confuso e devolver uma arquitetura que funciona**.
 
 Desde 2009 trabalho com **Microsoft Dynamics**, acompanhando a plataforma do CRM 2011 até o **Dynamics 365, Dataverse, Customer Insights – Journeys e Power Platform**. Nesse caminho desenhei integrações com sistemas legados, portais de atendimento acoplados ao CRM, ferramentas de importação de dados não estruturados e customizações padronizadas para serem reaproveitadas em várias operações, reduzindo custo e tempo de implantação.
 
@@ -96,10 +96,6 @@ Já atuei nos setores **financeiro, telecomunicações, educação, mineração,
 Plataforma que cria, publica e mede conteúdo de marketing digital de forma autônoma.
 `Python` `AWS` `TikTok API` `Supabase` `Grafana` `Apache Superset` `OpenAI` `Gemma`
 
-### 📈 Emanuelle: agentes autônomos para mercado
-Sistema multi-agente que monitora notícias, analisa o mercado e opera criptoativos e mercados de previsão, com aprendizado contínuo.
-`Python` `AWS` `CrewAI` `OpenAI` `Supabase` `Slack` `Polymarket` `Machine Learning`
-
 ### 🧰 Dynamics 365 Utilities
 Bibliotecas e ferramentas para acelerar o desenvolvimento em Dynamics 365 e Power Platform: helpers de Web API, automação de Dataverse, utilitários JavaScript, plugins, workflows e integrações com Azure.
 
@@ -119,6 +115,7 @@ Bibliotecas e ferramentas para acelerar o desenvolvimento em Dynamics 365 e Powe
 
 ## 🎓 Formação
 
+- **Bacharelado em Física**, Universidade de São Paulo (USP)
 - **Bacharelado em Ciência de Dados**, Anhanguera, *cursando* (previsão 02/2027)
 - **Pós-graduação em Engenharia em Gestão de Projetos**, UFABC
 
