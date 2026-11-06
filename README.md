@@ -2,22 +2,24 @@
 
 ### Arquiteto de Soluções · AI Engineer · Especialista Microsoft Dynamics 365 & Power Platform
 
-📍 Minas Gerais, Brasil  ·  [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)  ·  [Microsoft Learn Transcript](https://learn.microsoft.com/pt-br/users/martins-ricardo/transcript/vnmzkf3p949mjle)
+📍 Uberlândia – MG, Brasil  ·  [LinkedIn](https://www.linkedin.com/in/costaricardomartins/)  ·  🌐 Português (nativo) · Inglês (B2)
 
-> Físico de formação, engenheiro de software por vocação.
-> Há mais de 30 anos transformo problemas de negócio em sistemas que funcionam — e hoje, em sistemas que aprendem e agem sozinhos.
+> Mais de 30 anos transformando necessidades de negócio em soluções técnicas robustas e escaláveis —
+> 15 deles liderando tecnicamente projetos complexos. Hoje, construindo sistemas que aprendem e agem sozinhos.
 
 ---
 
 ## 🧭 Biografia técnica
 
-Comecei programando em **C++** numa época em que performance se conquistava na unha, e a formação em **Física pela USP** me deu o hábito que carrego até hoje: modelar o problema antes de escrever a primeira linha de código.
+Sou um profissional de tecnologia com mais de três décadas de estrada e uma especialidade bem definida: **pegar um problema de negócio confuso e devolver uma arquitetura que funciona**.
 
-Migrei para o ecossistema **.NET / C#** e, a partir de 2009, me especializei em **Microsoft Dynamics CRM**, acompanhando toda a evolução da plataforma até o **Dynamics 365, Dataverse e Power Platform**. São mais de 15 anos desenhando arquiteturas, frameworks e integrações sobre essa stack — de customizações finas em plugins até reimplantações completas.
+Desde 2009 trabalho com **Microsoft Dynamics**, acompanhando a plataforma do CRM 2011 até o **Dynamics 365, Dataverse, Customer Insights – Journeys e Power Platform**. Nesse caminho desenhei integrações com sistemas legados, portais de atendimento acoplados ao CRM, ferramentas de importação de dados não estruturados e customizações padronizadas para serem reaproveitadas em várias operações, reduzindo custo e tempo de implantação.
 
-Ao longo do caminho construí frameworks de integração com a API do Dynamics, barramentos de serviço de alta performance, soluções de Single Sign-On, ferramentas de **RPA** e plataformas comerciais completas sobre CRM. Trabalhei com times e clientes no Brasil e na Europa.
+Minha base é **C# / .NET e JavaScript**, e sempre usei essa base para resolver problemas que iam além do CRM. Construí uma **plataforma de RPA própria** que processa cerca de **8 milhões de interações por mês**, um sistema de **permissionamento com OAuth** para sistemas internos e soluções de **Computer Vision** que leem notas fiscais físicas e alimentam análise de risco de crédito.
 
-Hoje meu foco é a fronteira entre **engenharia sólida e inteligência artificial**: agentes autônomos, sistemas multi-agente, pipelines de RAG, servidores MCP e automação ponta a ponta — rodando em **AWS e Azure**. Em paralelo, curso **Ciência de Dados** para aprofundar a base estatística e de Machine Learning por trás do que construo.
+Nos últimos anos meu foco passou a ser **IA aplicada a processos de negócio**: arquitetura com **Azure OpenAI, Azure AI Studio e Copilot Studio**, assistentes especialistas conectados a **bancos vetoriais (RAG)**, **modelos de Machine Learning** integrados aos agentes para dar conhecimento de domínio a eles e a **governança de custo** dessas soluções em produção. Em paralelo, curso **Ciência de Dados** para aprofundar a base estatística do que construo.
+
+Já atuei nos setores **financeiro, telecomunicações, educação, mineração, metalurgia, call center, governo e consultoria**, com projetos no **Brasil e na Europa** (Portugal, Alemanha e Dinamarca).
 
 ---
 
@@ -25,77 +27,77 @@ Hoje meu foco é a fronteira entre **engenharia sólida e inteligência artifici
 
 | Área | O que eu entrego |
 |---|---|
-| **Arquitetura de Soluções** | Desenho de sistemas distribuídos, orientados a eventos, com integrações corporativas robustas e escaláveis |
-| **Dynamics 365 & Power Platform** | Arquitetura, plugins, workflows, Web API, Dataverse, Power Automate, Power Apps, Power Pages, Customer Insights e Journeys |
-| **Inteligência Artificial aplicada** | Agentes autônomos, sistemas multi-agente, RAG, orquestração de LLMs, Copilot Studio, MCP Servers |
-| **Automação** | RPA, pipelines de conteúdo, automação de processos de negócio e operações autônomas |
-| **Cloud** | Arquitetura AWS (certificado Solutions Architect) e Azure (Functions, Logic Apps, Data Lake) |
-| **Engenharia de Software** | Clean Architecture, Design Patterns, APIs REST, DevOps, CI/CD, Docker, Kubernetes |
-| **Dados** | Modelagem, SQL, análise exploratória e engenharia de dados com Pandas, NumPy e PySpark |
+| **Dynamics 365 & Power Platform** | Arquitetura, implantação e reimplantação, plugins, Web API, Power Automate, Power Apps, Power BI, Customer Insights e Journeys |
+| **Arquitetura de IA** | Soluções com Azure OpenAI, Azure AI Studio, Cognitive Services e Copilot Studio, escolhendo o modelo com melhor custo-benefício para manter em produção |
+| **Agentes & RAG** | Agentes no Copilot Studio e agentes RAG com OpenAI, conectados a bases vetoriais para virar especialistas no negócio do cliente |
+| **Machine Learning** | Modelos preditivos (ex.: previsão de participação em eventos para otimizar compras e investimento em marketing) integrados a agentes de IA |
+| **Integrações** | Dynamics e IA conectados a sistemas legados via API REST, com OAuth e atenção a segurança, escalabilidade e desempenho |
+| **Automação & RPA** | Automação de backoffice em larga escala, incluindo sistemas COBOL, como alternativa a licenças caras de RPA |
+| **Dados** | Azure Data Factory, Data Lake e Databricks, análise e extração de dados com C# e Python |
+| **Liderança técnica** | Code review, Scrum, TDD/BDD, CI/CD, mentoria de desenvolvedores e negociação com stakeholders |
+
+---
+
+## 📈 Resultados que entreguei
+
+- **~95% menos bugs** reportados após liderar a implantação do Marketing de Eventos no Dynamics 365
+- **~8 milhões de interações/mês** processadas por uma ferramenta de RPA desenvolvida internamente em C#, .NET Core e Selenium
+- **8 mil alunos matriculados em ~18 unidades** com um sistema de vendas de matrículas e up-selling que dispensou a ida dos pais à escola
+- **Backoffice inteiro refeito** trocando entidades customizadas por nativas, o que aumentou a confiabilidade e baixou o custo das evoluções seguintes
+- **Assistente de IA especialista** em Copilot Studio conectado a uma base vetorial, com curadoria, métricas de uso e governança de custos depois de implantado
+- **Recomendação por IA** de horários e abordagens de contato com leads em vendas de soluções IoT 5G
+- **Leitura de notas fiscais físicas com Computer Vision**, integrada a um sistema de análise de risco de crédito
+- **3 desenvolvedores backend formados** para atuar com Microsoft Dynamics
 
 ---
 
 ## 🛠️ Stack
 
+**Microsoft & IA**
+![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI Studio](https://img.shields.io/badge/Azure_AI_Studio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 **Linguagens**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Microsoft**
-![Dynamics 365](https://img.shields.io/badge/Dynamics_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white)
-![Copilot Studio](https://img.shields.io/badge/Copilot_Studio-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**IA**
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge)
-
-**Dados**
+**Dados & ML**
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+**Ferramentas**
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 🏗️ O que já construí
+## 🚀 Projetos pessoais
 
-- **Framework de integração com a API do Dynamics** em .NET, usado como base para acelerar projetos de CRM
-- **Barramento de serviços de alta performance** e ambiente de **Single Sign-On** corporativo
-- **Ferramenta de RPA** e revitalização completa de backoffice operacional
-- **Reimplantação de Dynamics 365** e uma **plataforma de venda de matrículas** construída sobre ela
-- **Solução com Copilot Studio** levando IA generativa para dentro do ecossistema Microsoft
-- Projetos de customização e evolução de Dynamics para clientes no **Brasil e na Europa**
-
----
-
-## 🚀 Projetos atuais
-
-### 🤖 Brigitte — Automação de conteúdo com IA
-Plataforma que cria, publica e mede conteúdo de marketing digital de forma autônoma, usando agentes para decidir o que publicar e aprender com a performance.
+### 🤖 Brigitte: automação de conteúdo com IA
+Plataforma que cria, publica e mede conteúdo de marketing digital de forma autônoma.
 `Python` `AWS` `TikTok API` `Supabase` `Grafana` `Apache Superset` `OpenAI` `Gemma`
 
-### 📈 Emanuelle — Agentes autônomos para mercado
-Sistema multi-agente que monitora notícias, analisa mercado, opera criptoativos e mercados de previsão, com ciclo de aprendizado contínuo.
+### 📈 Emanuelle: agentes autônomos para mercado
+Sistema multi-agente que monitora notícias, analisa o mercado e opera criptoativos e mercados de previsão, com aprendizado contínuo.
 `Python` `AWS` `CrewAI` `OpenAI` `Supabase` `Slack` `Polymarket` `Machine Learning`
 
 ### 🧰 Dynamics 365 Utilities
@@ -107,23 +109,18 @@ Bibliotecas e ferramentas para acelerar o desenvolvimento em Dynamics 365 e Powe
 
 | Certificação | Ano |
 |---|---|
-| Microsoft Power Platform Developer — **PL-400** | 2024 |
-| Microsoft Azure AI Fundamentals — **AI-900** | 2024 |
-| Microsoft Dynamics 365 Fundamentals (CRM) — **MB-910** | 2024 |
-| Microsoft Power Platform Fundamentals — **PL-900** | 2024 |
-| AWS Certified **Solutions Architect** – Associate | 2020 |
-| AWS Certified **Developer** – Associate | 2020 |
-| AWS Certified **Cloud Practitioner** | 2020 |
-| Microsoft **MB-200** — Power Platform + Dynamics 365 Core | 2019 |
-| **Artificial Intelligence** Nanodegree — Udacity | 2019 |
+| Microsoft Certified: **Power Platform Developer Associate** | 2025 |
+| Microsoft Certified: **Azure AI Fundamentals** (AI-900) | 2025 |
+| Microsoft Certified: **Dynamics 365 Fundamentals (CRM)** (MB-910) | 2023 |
+| Microsoft Certified: **Power Platform Fundamentals** (PL-900) | 2023 |
+| Microsoft Certified Technology Specialist: **Dynamics CRM 2011 Customization and Configuration** | 2013 |
 
 ---
 
 ## 🎓 Formação
 
-- **Bacharelado em Física** — Universidade de São Paulo (USP)
-- **Pós-graduação em Engenharia de Gestão de Projetos** — UFABC
-- **Ciência de Dados** — em andamento
+- **Bacharelado em Ciência de Dados**, Anhanguera, *cursando* (previsão 02/2027)
+- **Pós-graduação em Engenharia em Gestão de Projetos**, UFABC
 
 ---
 
@@ -138,3 +135,5 @@ Bibliotecas e ferramentas para acelerar o desenvolvimento em Dynamics 365 e Powe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/costaricardomartins/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trozobador)
+
+Disponível para projetos **remotos**, atendendo como **PJ**.
